@@ -6,7 +6,7 @@ reynolds:
   strengths:
     - good father
     - funny
-    - dated alanis morissette
+    - Deadpool
   weaknesses:
     - singing
     - green lantern movie
@@ -16,7 +16,7 @@ gosling:
   strengths:
     - builds houses
     - is a real boy
-    - never dated alanis morissette
+    - Project Hail Mary
   weaknesses:
     - micky mouse club
     - cries a lot
